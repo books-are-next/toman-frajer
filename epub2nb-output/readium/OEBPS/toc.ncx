@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Frajer</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I. ČÁST LOVE</text>
+      </navLabel>
+      <content src="Text/frajer_006.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>17. 11. 1989, Národní třída v Praze, 18:07</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>18. 7. 2008, Olší u Tábora, 20:19</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Hra na přetlačovanou</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>17. 11. 1989, Národní třída v Praze, 18:32</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Barevná hudba</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>17. 11. 1989, Národní třída v Praze, 19:10</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Vitamíny</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>17. 11. 1989, Vyšehradská ulice v Praze, 19:17</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Líčení</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>17. 11. 1989, Vyšehradská ulice v Praze 19:32</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Kateřina</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>17. 11. 1989, Benátská ulice v Praze, 21:12</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Slavnostní tank</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>17. 11. 1989, Voršilská ulice v Praze, 22:07</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Love</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>17. 11. 1989, Voršilská ulice u Národní třídy, 22:12</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Grilované kuře</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>17. 11. 1989, Vratislavova ulice v Praze, 23:09</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Snímky ze svatby</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>18. 11. 1989, Vyšehrad, Praha, 11:02</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Zkulturnit se</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>18. 11. 1989, Plaská ulice v Praze, 20:15</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Číslo</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>19. 11. 1989, Národní třída v Praze, 10:12</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Dárek do domácnosti</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>20. 11. 1989, Václavské náměstí v Praze, 9:38</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Obvody</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>20. 11. 1989, Kladno, 13:12</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>21. 11. 1989, Mělník, 18:07</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>23. 11. 1989, náměstí Krasnoarmějců v Praze, 9:21</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>24. 11. 1989, náměstí Krasnoarmějců v Praze, 17:27</text>
+        </navLabel>
+        <content src="Text/frajer_007.xhtml#_idParaDest-32"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>II. ČÁST SVOBODA</text>
+      </navLabel>
+      <content src="Text/frajer_008.xhtml#_idParaDest-33"/>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Měřítko 1 : 1</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Ani daleko, ani blízko</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Nekvalitní tisk</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Když chceš buchtu zaujmout</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Něco, co by mu udělalo radost</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Vlastnické vztahy</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Stroboskop</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Abstinenční syndrom</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Vstupní kapitál</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-42"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Aza a její úsměvy</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-43"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Zvláštní význam trvalé</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-44"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Bypass</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Copánek</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Diagnóza</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-47"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Jako pilot v džungli</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-48"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Na místě spolujezdce</text>
+        </navLabel>
+        <content src="Text/frajer_009.xhtml#_idParaDest-49"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>III. ČÁST CHATOVÁNÍ</text>
+      </navLabel>
+      <content src="Text/frajer_010.xhtml#_idParaDest-50"/>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Ahoj, babylónský řeky</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-51"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Aby to všechno mělo nějaký smysl</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-52"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Michalův byt</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-53"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Lék proti smrti</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-54"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Jednou jsme si sedli</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Černá hvězda</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-56"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Teorie tří O</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Proč ženský trápěj chlapy</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-58"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Plány praxe</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-59"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Hranice</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-60"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Auto, které předjíždím</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-61"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Jak bych se zachoval já</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-62"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Ať se do něčeho nenamočíš</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-63"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Prořezávání stromů</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-64"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Setkání</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-65"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Pod vlajkou</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-66"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Rivers of Babylon</text>
+        </navLabel>
+        <content src="Text/frajer_011.xhtml#_idParaDest-67"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
