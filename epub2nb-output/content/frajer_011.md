@@ -3,21 +3,13 @@ title: ''
 contentType: prose
 ---
 
-  
+>   
 
-  
+>   
 
-  
-
-  
-
-  
-
-  
+>   
 
 ## Ahoj, babylónský řeky
-
-  
 
 O osm let později uvidím plakát festivalu s mohutnou šipkou, přimalovanou fixou. Visí na plaňce vražené do země. Práci ve firmě mám v paži, posledních pár let si říkám, že bych měl zkusit něco jiného. Dál se vozím v autě s Azinými krabicemi, a užívám si, že mě nic do žádné změny nenutí. Dávno jsme přestali prodávat hotové produkty. Specializujeme se na prostředky, se kterými si lidi sami vypěstují, co chtějí.
 
@@ -73,8 +65,6 @@ Olda ležel na gauči, ruku přes oči. Měl šlachovité předloktí, jako kdyb
 
 ## Aby to všechno mělo nějaký smysl
 
-  
-
 Někdy před festivalem se mi ozvala ta redaktorka. Na její facebookovou nabídku přátelství jsem odepsal, že si mě nejspíš s někým plete. Něco na fotce mě ale zarazilo, ty intelektuálské brýle, ty ostře namalované rty jsem přece už někde viděl. A pak jsem si ji konečně vybavil. Vzpomněl jsem si, jak po mně chce sepsání mých zážitků pro brožuru, jak sedím mezi psacími stroji a jak se mi to nedaří.
 
 Naťukal jsem, že jsem v Listopadu zažil úplně totéž, co všichni ostatní, což jsem pokládal za závěr konverzace. Nová zpráva mi cvrnkla do noťasu snad jen o pár vteřin později. O to jí právě jde. Hledá autentické svědky, teď, rok před dvacátým výročím, je potřeba dát všechno konečně do pořádku.
@@ -102,8 +92,6 @@ Začaly vycházet články o Národní třídě. Lidé psali o demonstraci jak
 Bára se chtěla sejít, protože i když jsem jí poslal spoustu materiálu, nehýbali jsme se podle ní z místa. Nijak jsem se schůzkou nespěchal a pokračoval v psaní. Bavilo mě přehrávat si dialogy. Vybavoval jsem si je s podivnou lehkostí, jako by se všechno stalo v nich. Nechtěl jsem, aby mě z nich Bára vytrhla.
 
 ## Michalův byt
-
-  
 
 Zaparkovali jsme u nízkého paneláku, kolem byly vzrostlé stromy. Musely tam zůstat z doby, kdy sídliště ještě nestálo. Vyšlápli jsme tři patra schodů, Olda se ne a ne trefit klíčem do zámku.
 
@@ -135,8 +123,6 @@ A tam vzadu to bylo. Skvrna zčernalé krve, ve které zatuhly vajgly, skořáp
 
 ## Lék proti smrti
 
-  
-
 Bára se skláněla v Indigu nad vytištěným textem a bezradně v něm rozmisťovala nečitelné značky. „Chtělo by to míň dialogů,“ navrhla.
 
 „Ty jsou přece nejdůležitější.“
@@ -160,8 +146,6 @@ Občas pustím místo cédéčka rádio. Na všech stanicích hrají to samé, r
 Azini klienti vdechnou kouř a dostaví se radost. Všechno kolem, celá kultura hulení, to je jen taková frajeřina. Možná i Michalovo frajerství byl vlastně jenom lék, protože je nakonec jedno, jestli si člověk ubalí jointa nebo postaví barevnou hudbu. Vzpomenu si na mámin zázračný medikament proti alkoholismu. Věci zapadají dohromady. Jestli někdo věří na účinek chemikálií a někdo jiný zase na byliny, je celkem jedno. Všichni toužíme po tom, aby štěstí vyrušilo smrt. Aspoň na chvíli.
 
 ## Jednou jsme si sedli
-
-  
 
 „Měli jsme tě nechat doma,“ hlesla máma, sedící vedle mě na posteli. „Vezmeš si aspoň nějaké knížky?“
 
@@ -213,8 +197,6 @@ Když se rakev dala do pohybu a my se zvedli z lavic, uvědomil jsem si neček
 
 ## Černá hvězda
 
-  
-
 Dívám se po holkách kolem sebe, všechny vypadají, jako by za sebou ještě neměly setkání s prvním osudovým kreténem svého života, a jako by k němu ani nemuselo dojít. Čtu v jejich úsměvech, ze kterých vidím vždycky jenom náznak. Zezadu, přes rameno, z poloprofilu. V nepravidelném světle, plném záblesků a stínů, si jsem jistý, že bychom se mohli vyhnout slovům, která vždycky znamenají něco jiného. V pauzách si je prohlédnu pořádně. Pokaždé vypadají jinak.
 
 Rád bych uviděl holku s ofinou, kterou jsem potkal sedmnáctého listopadu. Párkrát mám pocit, že ji vidím. Je to bezpečně ona, dokonce má na sobě červenou lyžařskou bundu. Pak si uvědomím, že v červenci asi těžko. Ta dívka si samozřejmě jenom oblékla veselou košili.
@@ -242,8 +224,6 @@ Sekám svoje taneční figury. Cítím basové vibrace v žaludku a kromě nic
 Michal se na svých diskotékách vždycky snažil někoho sbalit. Tančím mezi lidmi, kterých si nevšímám, a přitom je mám na dosah ruky.
 
 ## Teorie tří O
-
-  
 
 Svůj text pro Báru jsem psal do noťasu rychle, jako bych chatoval. Pořád v něm ale něco scházelo. Snažil jsem se vylovit z paměti nějaký důležitý detail, a pak jsem si vzpomněl na jeden rozhovor s Michalem. Zeptal jsem se ho tehdy, proč ho Iza vyrazila.
 
@@ -312,8 +292,6 @@ Podíval jsem se na její facebookový profil, jako bych tam mohl najít vysvět
 Neodpověděla mi a Bára se už taky neozvala.
 
 ## Proč ženský trápěj chlapy
-
-  
 
 Po Michalově pohřbu se jelo do hospody, zakouřeného podniku s chabým osvětlením. Personál se tvářil profesionálně zdrceně. Bylo to ještě horší, než kdyby se netvářil nijak. Mlčky jsme přihlíželi, jak na stolech přistávají talíře s rychle chladnoucími roštěnkami. Jeden z číšníků mámu zkoumavě pozoroval. Jindy jsem se pozorováním jejích klientů docela bavil, teď jsem si jenom přál, aby mlčel. Mohl jí říct, že abstinuje, nebo že má recidivu – obě možnosti potvrzovaly, že Michal to projel, a my s ním.
 
@@ -386,8 +364,6 @@ Policajti se domlouvali, ve které hospodě budou pokračovat.
 Aza se rychle rozloučila, podala mi zběžně ruku jako všem ostatním. Máma zamířila ven s klíčky od auta v ruce a já se přidal k Oldovi, který platil.
 
 ## Plány praxe
-
-  
 
 Několik dní po Michalově pohřbu jsem se zastavil u našich. Seděli v kuchyni sklonění nad plány. „A tady by byla čekárna,“ řekl Olda, jako by existovalo tisíc jiných možností, kam ji umístit.
 
@@ -465,8 +441,6 @@ Vzpomněl jsem si na fotku, která se mi dostala do ruky, když jsme se jednou p
 
 ## Hranice
 
-  
-
 Trombonista s kšiltem dozadu několikrát poskočí do rytmu, pak rutinně přiloží svůj nástroj k puse, ani o vteřinu dřív, ani o vteřinu později, namířený přesně na mikrofon. Saxofonista stojí rozkročený, všechna jeho energie se vlévá do klapek a náústku. Kytarista v mikině s přehozenou kapucí sází riffy a vrhá do publika napůl pobavený, napůl ironický úsměv. Klávesák se kymácí za klávesami, bicmanovi visí z pusy cigareta. Trumpetista zvedá svůj nástroj do výšky. Mezi nimi proplouvá zpěvák s dredy až na břicho, a hlubokým hlasem to všechno hrne před sebou.
 
 Hudba se vyvalí z beden a způsobí v davu blaženou vlnu. Zatetelení trvá několika vteřin, než tanečníci okopírují rytmus. Už jsou dobře rozjaření, a ve vůni sluncem spálené a nohama zmandlované trávy, okořeněné prachem, naskakují na vagón skladby. Jsem akorát uprostřed, kde je nejlepší zvuk, hned vedle svazku kabelů od pódia k mixáku. Uprostřed bublající kaše tanečníků, zaseklý v pastě muziky, kterou shora sprchuje chladný vzduch červencové noci.
@@ -484,8 +458,6 @@ Měl jsem s Michalem mluvit. Pamatuju si, proč to nešlo, ale vůbec to nepom�
 Omotám si mikinu kolem hlavy, takže odfiltruje všechno kromě rytmu. Vnímám už jenom basy. Soustředím se na něco, co je těsně za hranicí toho, kam ještě vidím.
 
 ## Auto, které předjíždím
-
-  
 
 S mámou si rozumím, protože si s ní skajpuju. Vozím s sebou noťas a k večeru zastavím poblíž restaurace nebo kavárny, kde se dá chytit signál. Když byla máma u ušaře, ukázalo se, že hůř slyší na pravé ucho, skypová sluchátka by měla pomoct.
 
@@ -530,8 +502,6 @@ Kecáme, dokud nezačne svítat. V šedém světle se Michalovi ani trochu nepo
 „Jseš cvok, ale dobrej cvok.“ Vrátí mi mikinu a zmizí mezi stany.
 
 ## Jak bych se zachoval já
-
-  
 
 „Haló, haló!“ provolává máma. „HALÓ!“
 
@@ -661,27 +631,25 @@ V čajovně si objednám šíšu s melounovo-citrónovou příchutí. Popíjí
 
 ## Ať se do něčeho nenamočíš
 
-V prázdné chodbě se znovu objevil chlapík s pramenem vlasů do čela, teď už bez baloňáku. Měl na sobě zmačkaný oblek, který kupodivu nepůsobil úřednicky. Možná to bylo tím, jak na něm visel. Muž ho vyplňoval, jen aby se neřeklo, levé rameno saka mu sjíždělo někam k paži, košili měl povytaženou z kalhot a uzel kravaty povolený. Pohybem hlavy nařídil esenbákovi, ať zmizí. Pak si mě důkladně prohlédl. Otevřel křídlo dveří do ulice, zajistil ho. Cestou zpátky, za lítačky, jsem mu už nestál za pohled.
+_V prázdné chodbě se znovu objevil chlapík s pramenem vlasů do čela, teď už bez baloňáku. Měl na sobě zmačkaný oblek, který kupodivu nepůsobil úřednicky. Možná to bylo tím, jak na něm visel. Muž ho vyplňoval, jen aby se neřeklo, levé rameno saka mu sjíždělo někam k paži, košili měl povytaženou z kalhot a uzel kravaty povolený. Pohybem hlavy nařídil esenbákovi, ať zmizí. Pak si mě důkladně prohlédl. Otevřel křídlo dveří do ulice, zajistil ho. Cestou zpátky, za lítačky, jsem mu už nestál za pohled._
 
-Zůstal jsem nerozhodně stát u zdi. Z ulice ke mně zavanul chlad, zahlédl jsem lesknoucí se dlažební kostky. Je to past, uvažoval jsem překotně, jakmile vylezu ven, budou tam na mě čekat. A obviní mě. Obviní mě, že… aby…
+_Zůstal jsem nerozhodně stát u zdi. Z ulice ke mně zavanul chlad, zahlédl jsem lesknoucí se dlažební kostky. Je to past, uvažoval jsem překotně, jakmile vylezu ven, budou tam na mě čekat. A obviní mě. Obviní mě, že… aby…_
 
-Chlap znovu prošel lítačkami. „Bóže, to je práce,“ povzdechl si. Došel ke mně, popadl mě za loket a zamířil se mnou na ulici.
+_Chlap znovu prošel lítačkami. „Bóže, to je práce,“ povzdechl si. Došel ke mně, popadl mě za loket a zamířil se mnou na ulici._
 
-„No tak běž,“ řekl bezvýrazně. Nebylo v tom nic, ale nebylo v tom ani nic jiného. Opatrně jsem udělal pár kroků. Chlap si ve spojených dlaních zapaloval cigaretu.
+_„No tak běž,“ řekl bezvýrazně. Nebylo v tom nic, ale nebylo v tom ani nic jiného. Opatrně jsem udělal pár kroků. Chlap si ve spojených dlaních zapaloval cigaretu._
 
-„Ale proč?“ zeptal jsem se.
+_„Ale proč?“ zeptal jsem se._
 
-„Někdo se za tebe přimluvil,“ utrousil. „Hele, my víme moc dobře, co jsi zač. Tak dej bacha, ať se do něčeho nenamočíš.“
+_„Někdo se za tebe přimluvil,“ utrousil. „Hele, my víme moc dobře, co jsi zač. Tak dej bacha, ať se do něčeho nenamočíš.“_
 
-Věděl jsem, že bych se měl zeptat na ostatní. Zkusit je dostat taky ven, aspoň tu holku v červené bundě. A kdyby to nevyšlo, zůstat tam s nimi. Věděl jsem to, ale vzpomínka na upatlanou zeď a na výrazy esenbáků byla příliš čerstvá, a už jsem stál na ulici.
+_Věděl jsem, že bych se měl zeptat na ostatní. Zkusit je dostat taky ven, aspoň tu holku v červené bundě. A kdyby to nevyšlo, zůstat tam s nimi. Věděl jsem to, ale vzpomínka na upatlanou zeď a na výrazy esenbáků byla příliš čerstvá, a už jsem stál na ulici._
 
-Dělal jsem dlouhé kroky, ale držel jsem se, abych neběžel. Uvědomil jsem si, že jsem v Benátské, nedaleko máminy záchytky. Ve Viničné jsem začal sprintovat a hnal jsem se, dokud mi nedošel dech. Mohl jsem si to ušetřit, protože mě nikdo nepronásledoval. Sklonil jsem se a pokoušel se přimět žaludek, aby zůstal dole.
+_Dělal jsem dlouhé kroky, ale držel jsem se, abych neběžel. Uvědomil jsem si, že jsem v Benátské, nedaleko máminy záchytky. Ve Viničné jsem začal sprintovat a hnal jsem se, dokud mi nedošel dech. Mohl jsem si to ušetřit, protože mě nikdo nepronásledoval. Sklonil jsem se a pokoušel se přimět žaludek, aby zůstal dole._
 
-Michal mě z toho přece jenom vysekal, honilo se mi hlavou. A pak jsem si přehrál, co mi říkal ten chlap. Už to na mě nepůsobilo tak nevinně, tón jeho hlasu se mi najednou zdál výhrůžný. Nechystají se mě přece jenom sledovat? Znovu jsem se rozběhl. Zamířil jsem tam, kde by mě určitě nehledali – kde to všechno začalo.
+_Michal mě z toho přece jenom vysekal, honilo se mi hlavou. A pak jsem si přehrál, co mi říkal ten chlap. Už to na mě nepůsobilo tak nevinně, tón jeho hlasu se mi najednou zdál výhrůžný. Nechystají se mě přece jenom sledovat? Znovu jsem se rozběhl. Zamířil jsem tam, kde by mě určitě nehledali – kde to všechno začalo._
 
 ## Prořezávání stromů
-
-  
 
 Máma mi zavolá, když na chatě prořezávají stromy. Některé z nich tam kdysi zasadil Olda, teď jsou z nich dospělé smrky. Kvůli příliš mělkým kořenům by mohly spadnout na auto nebo na chatu. Něco v jejím hlase mě přiměje, abych jí okamžitě slíbil, že přijedu. Jsem v Mělníku, a když se otočím a projíždím centrem, snažím se poznat, kde jsme v listopadu ’89 lepili plakát, ale nepovede se mi to.
 
@@ -730,8 +698,6 @@ Zadívám se na ni. Je maličko rozkročená, paže má volně podél těla. Vyp
 „Olda si myslel, bůhvíjakou to nemá cenu,“ poznamená v autě, její smířlivý tón mě uklidňuje a ničí zároveň.
 
 ## Setkání
-
-  
 
 Zrovna si říkám, jak musím partičce odvedle připadat. Překvapí mě, když mi holka s copánky řekne: „Nechceš si dát taky brko?“ Přestěhuju se na jejich kus koberce i se svou šíšou, abych se revanšoval.
 
@@ -789,127 +755,125 @@ Křením se na něj, protože je mi jasné, že se ptám jako debil.
 
 ## Pod vlajkou
 
-Zavěsil jsem. Holka v červené bundě stála ještě pořád před budkou. Tvář pod pískovou ofinou jí zbledla. „Všechno je v pořádku,“ oznámil jsem podobným tónem, jakým jsem předtím uklidňoval mámu. Měl jsem pocit, že když se mi to podařilo s ní, zvládnu to s každým. „Zablokovali Národní!“ vyhrkla.
+_Zavěsil jsem. Holka v červené bundě stála ještě pořád před budkou. Tvář pod pískovou ofinou jí zbledla. „Všechno je v pořádku,“ oznámil jsem podobným tónem, jakým jsem předtím uklidňoval mámu. Měl jsem pocit, že když se mi to podařilo s ní, zvládnu to s každým. „Zablokovali Národní!“ vyhrkla._
 
-„Tak půjdem na opačnou stranu,“ navrhl jsem.
+_„Tak půjdem na opačnou stranu,“ navrhl jsem._
 
-„Zablokovali ji z obou stran!“
+_„Zablokovali ji z obou stran!“_
 
-Natáhl jsem se na špičky a uviděl řetěz bílých přileb. Holka se třásla strachy. Ani jsem nevěděl proč a vzal jsem ji za loket. Připadalo mi, že teď dokážu všechno vysvětlit i policajtům.
+_Natáhl jsem se na špičky a uviděl řetěz bílých přileb. Holka se třásla strachy. Ani jsem nevěděl proč a vzal jsem ji za loket. Připadalo mi, že teď dokážu všechno vysvětlit i policajtům._
 
-Protlačili jsme se stísněným davem kupředu, konečně jsme vstoupili do volného prostoru před první řadou, kde na dlažbě hořely svíčky. Táhl jsem ji za sebou. Před námi už stál kordón policajtů v bílých přilbách, s plastovými štíty a s bílými obušky. Těkal jsem očima z jednoho na druhého, až jsem zůstal hledět na toho přímo přede mnou. Všiml jsem si, že má mazácky zvednutý límec s kožešinkou. Podíval jsem se mu k pasu, i když pádlo jsem samozřejmě vidět nemohl, to by měl vzadu. Koukl jsem se mu aspoň na nohy. Kalhoty měl spuštěné přes kanady, vsadil bych se ale, že řemínky na nich měl do kříže.
+_Protlačili jsme se stísněným davem kupředu, konečně jsme vstoupili do volného prostoru před první řadou, kde na dlažbě hořely svíčky. Táhl jsem ji za sebou. Před námi už stál kordón policajtů v bílých přilbách, s plastovými štíty a s bílými obušky. Těkal jsem očima z jednoho na druhého, až jsem zůstal hledět na toho přímo přede mnou. Všiml jsem si, že má mazácky zvednutý límec s kožešinkou. Podíval jsem se mu k pasu, i když pádlo jsem samozřejmě vidět nemohl, to by měl vzadu. Koukl jsem se mu aspoň na nohy. Kalhoty měl spuštěné přes kanady, vsadil bych se ale, že řemínky na nich měl do kříže._
 
-Rozklepal jsem se. Jít sem byla přece jenom blbost. Chtěl jsem něco dokázat Brajglovi, spolužákovi z gymplu, který měl vždycky vlasy o něco delší než já. Že i když jsem se dostal na vysokou a on začal dělat nočního hlídače, nic to neznamená. Taky že jsem se kvůli přijímačkám nechal ostříhat. Teď mi to všechno přišlo dokonale nesmyslné. Podařilo se mi nejspíš jedno jediné: přesvědčil jsem mámu, že na demonstraci nejsem, a možná ani to ne.
+_Rozklepal jsem se. Jít sem byla přece jenom blbost. Chtěl jsem něco dokázat Brajglovi, spolužákovi z gymplu, který měl vždycky vlasy o něco delší než já. Že i když jsem se dostal na vysokou a on začal dělat nočního hlídače, nic to neznamená. Taky že jsem se kvůli přijímačkám nechal ostříhat. Teď mi to všechno přišlo dokonale nesmyslné. Podařilo se mi nejspíš jedno jediné: přesvědčil jsem mámu, že na demonstraci nejsem, a možná ani to ne._
 
-Pak jsem zvedl hlavu a pokusil se podívat mazákovi do očí. Neuviděl jsem nic, protože v plastovém štítu přilby se odrážely svíčky. Policajt se pohnul, zvedl obušek nad hlavu a podivně pomalu se rozpřáhl. Ještě jsem si všiml, že ti druzí s něčím takovým zřejmě nepočítali, protože mu začali překvapeně dělat místo. Holka mě táhla za ruku zpátky, abychom se schovali mezi demonstranty. Rána ale nedopadla. Místo toho si policajt vrazil obušek do podpaží levice, a chňapl po mně. Pokusil jsem se uhnout, ale prsty v černé kožené rukavici se mi sevřely kolem paže. Vyškubl mou ruku z holčičí dlaně.
+_Pak jsem zvedl hlavu a pokusil se podívat mazákovi do očí. Neuviděl jsem nic, protože v plastovém štítu přilby se odrážely svíčky. Policajt se pohnul, zvedl obušek nad hlavu a podivně pomalu se rozpřáhl. Ještě jsem si všiml, že ti druzí s něčím takovým zřejmě nepočítali, protože mu začali překvapeně dělat místo. Holka mě táhla za ruku zpátky, abychom se schovali mezi demonstranty. Rána ale nedopadla. Místo toho si policajt vrazil obušek do podpaží levice, a chňapl po mně. Pokusil jsem se uhnout, ale prsty v černé kožené rukavici se mi sevřely kolem paže. Vyškubl mou ruku z holčičí dlaně._
 
-Najednou jsem byl na druhé straně kordonu a on mě napůl vlekl, napůl nesl k Máji. Zdálo se mi, že jsem zaslechl, jak kleje: „Zasranej vobuch.“
+_Najednou jsem byl na druhé straně kordonu a on mě napůl vlekl, napůl nesl k Máji. Zdálo se mi, že jsem zaslechl, jak kleje: „Zasranej vobuch.“_
 
-„Zatčené do vozidel!“ vykřikl chlapík v koženkovém kloboučku.
+_„Zatčené do vozidel!“ vykřikl chlapík v koženkovém kloboučku._
 
-Můj průvodce zase zabručel něco, co znělo kupodivu jako: „A doprdele.“ Pokusil jsem se mu vytrhnout. Zasyčel mi do ucha: „Nedělej problémy.“ Teprve když dodal vole, konečně mi došlo, kdo to je. Vzápětí mě protlačil mezi kordónem a domovní fasádou zpátky do davu. Zůstal jsem stát proti němu. Teď jsem viděl jeho oči jasně. Dívaly se pobaveně.
+_Můj průvodce zase zabručel něco, co znělo kupodivu jako: „A doprdele.“ Pokusil jsem se mu vytrhnout. Zasyčel mi do ucha: „Nedělej problémy.“ Teprve když dodal vole, konečně mi došlo, kdo to je. Vzápětí mě protlačil mezi kordónem a domovní fasádou zpátky do davu. Zůstal jsem stát proti němu. Teď jsem viděl jeho oči jasně. Dívaly se pobaveně._
 
-Za kordónem zazněl rozkaz, řada se pohnula vpřed. Bílé obušky se zvedly a pak jsem poprvé zaslechl ty duté, mlaskavé, překvapivě hlasité rány, které vydává lidské tělo. Ze zástupu se ozval pískot, co přešel do řevu. Ve výškách se prosadily holčičí hlasy. A pak se ztratily v jediném víru, už bych jednotlivé výkřiky nerozeznal. Dělo se to rychleji, než jsem byl schopen sledovat. Netušil jsem, jak těžko se to jednou bude popisovat, až budu muset. Až se mě bude vyptávat redaktorka s ostře namalovanými rty.
+_Za kordónem zazněl rozkaz, řada se pohnula vpřed. Bílé obušky se zvedly a pak jsem poprvé zaslechl ty duté, mlaskavé, překvapivě hlasité rány, které vydává lidské tělo. Ze zástupu se ozval pískot, co přešel do řevu. Ve výškách se prosadily holčičí hlasy. A pak se ztratily v jediném víru, už bych jednotlivé výkřiky nerozeznal. Dělo se to rychleji, než jsem byl schopen sledovat. Netušil jsem, jak těžko se to jednou bude popisovat, až budu muset. Až se mě bude vyptávat redaktorka s ostře namalovanými rty._
 
-Brácha se rozpřáhl obuškem, ale těsně nad mým ramenem přibrzdil. I tak mě ta rána srazila do kolen.
+_Brácha se rozpřáhl obuškem, ale těsně nad mým ramenem přibrzdil. I tak mě ta rána srazila do kolen._
 
-Přitlačil mě k zemi. „Lež, vole!“ zařval mi do ucha, vsunul pode mě svůj plastový štít. Poslušně jsem se natáhl, a nade mnou se rozkročily nohy v bagančatech, mezi kterými se houpal obušek.
+_Přitlačil mě k zemi. „Lež, vole!“ zařval mi do ucha, vsunul pode mě svůj plastový štít. Poslušně jsem se natáhl, a nade mnou se rozkročily nohy v bagančatech, mezi kterými se houpal obušek._
 
-Esenbáci odtlačili lidi pár metrů od nás. Dav ječel, prosil, holky vzlykaly. Kolem produněly nohy v kanadách, které pokračovaly maskáčovými nohavicemi. Opatrně jsem mrkl nahoru a uviděl červené barety. Najednou jsem měl jednoho z nich nad sebou. Podezřívavě si mě prohlédl. „Co mu je?“ zeptal se bráchy.
+_Esenbáci odtlačili lidi pár metrů od nás. Dav ječel, prosil, holky vzlykaly. Kolem produněly nohy v kanadách, které pokračovaly maskáčovými nohavicemi. Opatrně jsem mrkl nahoru a uviděl červené barety. Najednou jsem měl jednoho z nich nad sebou. Podezřívavě si mě prohlédl. „Co mu je?“ zeptal se bráchy._
 
-„Natřel jsem ho a von se složil,“ řekl brácha.
+_„Natřel jsem ho a von se složil,“ řekl brácha._
 
-„Tak ho odtáhni do antonu, ne?“
+_„Tak ho odtáhni do antonu, ne?“_
 
-„Má dost,“ odpověděl brácha.
+_„Má dost,“ odpověděl brácha._
 
-„Proč leží na tom štítu?“
+_„Proč leží na tom štítu?“_
 
-„No jestli jsem mu nepřerazil hřbet. Šoupnul jsem pod něj radši štít. Jako při bouračce.“
+_„No jestli jsem mu nepřerazil hřbet. Šoupnul jsem pod něj radši štít. Jako při bouračce.“_
 
-„Au. Hm. Pohlídej, ať ho vidí co nejmíň civilů. Jasný?“
+_„Au. Hm. Pohlídej, ať ho vidí co nejmíň civilů. Jasný?“_
 
-„Provedu!“ zvýšil hlas brácha.
+_„Provedu!“ zvýšil hlas brácha._
 
-Jeden z červených baretů protáhl kordónem kluka s československou vlajkou. Pokusil se mu ji vyrvat, a když ji nepouštěl, ubalil mu ránu pěstí. Kluk se chytil za hlavu. Vlajka mu vyklouzla a Michal po ní skočil, rychlým, tanečním pohybem ji popadl a roztáhl ji nade mnou.
+_Jeden z červených baretů protáhl kordónem kluka s československou vlajkou. Pokusil se mu ji vyrvat, a když ji nepouštěl, ubalil mu ránu pěstí. Kluk se chytil za hlavu. Vlajka mu vyklouzla a Michal po ní skočil, rychlým, tanečním pohybem ji popadl a roztáhl ji nade mnou._
 
-Ještě jsem zahlédl, jak další baret táhne pištící holku. Všiml jsem si, že pod pískovou ofinou má rozmazané slzy. Znovu jsem měl pocit, že se na mě někdo dívá dírou ve stropě a já nemůžu nic dělat. Vzápětí se na mě snesla vlajka.
+_Ještě jsem zahlédl, jak další baret táhne pištící holku. Všiml jsem si, že pod pískovou ofinou má rozmazané slzy. Znovu jsem měl pocit, že se na mě někdo dívá dírou ve stropě a já nemůžu nic dělat. Vzápětí se na mě snesla vlajka._
 
-Slyšel jsem všechno, co se na Národní odehrálo: povely, mlaskavé údery dopadajících obušků a výkřiky. Slyšel jsem všechno, ale neviděl jsem nic.
+_Slyšel jsem všechno, co se na Národní odehrálo: povely, mlaskavé údery dopadajících obušků a výkřiky. Slyšel jsem všechno, ale neviděl jsem nic._
 
-Hověl jsem si pod vlajkou, jako když jsem si bral pod deku knížku a četl jsem si. Brácha ze mě serval vlajku stejně prudce jako tehdy. Tentokrát se netvářil ani trochu suverénně, pod zvednutým štítem přilby měl vyděšený výraz: „Padáme. Teď, anebo nikdy.“
+_Hověl jsem si pod vlajkou, jako když jsem si bral pod deku knížku a četl jsem si. Brácha ze mě serval vlajku stejně prudce jako tehdy. Tentokrát se netvářil ani trochu suverénně, pod zvednutým štítem přilby měl vyděšený výraz: „Padáme. Teď, anebo nikdy.“_
 
-Na podobné lehce přehnané výkřiky jsem byl u něj zvyklý. Brácha si připadal jako desperát a věčně si představoval, že bojuje s přesilou. Vyskočil jsem na nohy a zaváhal, co s vlajkou. Nakonec jsem si ji strčil za bundu.
+_Na podobné lehce přehnané výkřiky jsem byl u něj zvyklý. Brácha si připadal jako desperát a věčně si představoval, že bojuje s přesilou. Vyskočil jsem na nohy a zaváhal, co s vlajkou. Nakonec jsem si ji strčil za bundu._
 
-Michal zvedl štít a vyrazili jsme. V podloubí na Národní postávalo pár červených baretů, na nároží hlouček bílých přileb. Kolem baretů jsme proběhli, před bílými přilbami brácha ještě zrychlil. Úspěšně jsme je minuli, jenže sotva jsme urazili pár metrů Mikulandskou, uslyšeli jsme zvolání: „Soudruhu!“
+_Michal zvedl štít a vyrazili jsme. V podloubí na Národní postávalo pár červených baretů, na nároží hlouček bílých přileb. Kolem baretů jsme proběhli, před bílými přilbami brácha ještě zrychlil. Úspěšně jsme je minuli, jenže sotva jsme urazili pár metrů Mikulandskou, uslyšeli jsme zvolání: „Soudruhu!“_
 
-Brácha strnul. Popadl mě za předloktí rukou v černé kožené rukavici. Stiskl asi víc, než si uvědomoval.
+_Brácha strnul. Popadl mě za předloktí rukou v černé kožené rukavici. Stiskl asi víc, než si uvědomoval._
 
-Přistoupil k nám chlapík ve světlém plášti, se silnými brýlemi. Dlouze se na nás podíval. Bylo mi jasné, že si sem nevyrazil na procházku.
+_Přistoupil k nám chlapík ve světlém plášti, se silnými brýlemi. Dlouze se na nás podíval. Bylo mi jasné, že si sem nevyrazil na procházku._
 
-„Odvádíte zadrženého?“ zazněla otázka s nepochopitelným náznakem úsměvu. „Pročpak na opačnou stranu, než jsou vozidla?“ Do jeho pobavení se přimíchal maličko výsměšný tón. Mužova tvář přitom zůstávala nehybná.
+_„Odvádíte zadrženého?“ zazněla otázka s nepochopitelným náznakem úsměvu. „Pročpak na opačnou stranu, než jsou vozidla?“ Do jeho pobavení se přimíchal maličko výsměšný tón. Mužova tvář přitom zůstávala nehybná._
 
-„Myslel jsem, že ho vezmu rovnou na Barťák.“
+_„Myslel jsem, že ho vezmu rovnou na Barťák.“_
 
-„Aha. Soudruh je iniciativní. Takové lidi potřebujeme. Při čem jste ho zadržel?“
+_„Aha. Soudruh je iniciativní. Takové lidi potřebujeme. Při čem jste ho zadržel?“_
 
-„Ehm… vytáhl jsem ho z první řady.“ Bráchovi trochu zakolísal hlas.
+_„Ehm… vytáhl jsem ho z první řady.“ Bráchovi trochu zakolísal hlas._
 
-„Výborně. Takže to možná nebude řadový narušitel, ale jeden z těch, co je sem přivedli! No tak ho na ústředí vemte. Pokračujte.“
+_„Výborně. Takže to možná nebude řadový narušitel, ale jeden z těch, co je sem přivedli! No tak ho na ústředí vemte. Pokračujte.“_
 
-Brácha se mnou škubl, vyrazili jsme. Sotva jsme urazili pár kroků, ozval se znovu ten hlas: „Okamžik.“ Brácha neochotně zastavil a muž nás překvapivě svižně doběhl: „Ještě jméno a hodnost.“
+_Brácha se mnou škubl, vyrazili jsme. Sotva jsme urazili pár kroků, ozval se znovu ten hlas: „Okamžik.“ Brácha neochotně zastavil a muž nás překvapivě svižně doběhl: „Ještě jméno a hodnost.“_
 
-Brácha se narovnal, okamžik mlčel, pak po pravdě řekl, kdo je. Vzápětí jsme ostře vyrazili vpřed.
+_Brácha se narovnal, okamžik mlčel, pak po pravdě řekl, kdo je. Vzápětí jsme ostře vyrazili vpřed._
 
-Pospíchali jsme Mikulandskou a já se divil, proč mě brácha pořád drží za předloktí. Pustil mě, až když jsme zabočili do Ostrovní. Opřel se o zeď, pak se sesul do podřepu. Prohmatal si náprsní kapsy, a vylovil balíček spart. Několikrát mu vypadl na zem, než z něj dokázal vytáhnout cigáro. Strnul s nezapálenou spartou v puse. Pochopil jsem, že na podobné číslo se zapalovačem už nemá sílu. Vytáhl jsem z kapsy sirky. Brácha vtáhl kouř tak hluboko, až se mi zdálo, že ho nikdy nevyfoukne.
+_Pospíchali jsme Mikulandskou a já se divil, proč mě brácha pořád drží za předloktí. Pustil mě, až když jsme zabočili do Ostrovní. Opřel se o zeď, pak se sesul do podřepu. Prohmatal si náprsní kapsy, a vylovil balíček spart. Několikrát mu vypadl na zem, než z něj dokázal vytáhnout cigáro. Strnul s nezapálenou spartou v puse. Pochopil jsem, že na podobné číslo se zapalovačem už nemá sílu. Vytáhl jsem z kapsy sirky. Brácha vtáhl kouř tak hluboko, až se mi zdálo, že ho nikdy nevyfoukne._
 
-„Tak to dopadlo dobře, ne?“ odvážil jsem se.
+_„Tak to dopadlo dobře, ne?“ odvážil jsem se._
 
-„Ty vole!“ vystřelilo z bráchy zároveň s kouřem. „Teďka vědí, že jsem se pustil do sólo akce!“
+_„Ty vole!“ vystřelilo z bráchy zároveň s kouřem. „Teďka vědí, že jsem se pustil do sólo akce!“_
 
-„Proč jsi mu teda říkal, jak se jmenuješ?“
+_„Proč jsi mu teda říkal, jak se jmenuješ?“_
 
-„Ničemu nerozumíš“ štěkl na mě. „Dyť to bylo nějaký zvíře! Moc mi nevěřil, ale neměl čas se zdržovat. Kdyby si všiml, že se jménem nějak váhám, klidně by zlegitimoval mě i tebe! A byli bysme v loji voba!“
+_„Ničemu nerozumíš“ štěkl na mě. „Dyť to bylo nějaký zvíře! Moc mi nevěřil, ale neměl čas se zdržovat. Kdyby si všiml, že se jménem nějak váhám, klidně by zlegitimoval mě i tebe! A byli bysme v loji voba!“_
 
-„Aha, a teďka je v loji kdo?“
+_„Aha, a teďka je v loji kdo?“_
 
-„No přece já, ty pako! Myslel jsem, že tě nějak dostanu za kordón a pak se vrátím. Ty vole, dyť ty jsi ze mě udělal dezertéra!“
+_„No přece já, ty pako! Myslel jsem, že tě nějak dostanu za kordón a pak se vrátím. Ty vole, dyť ty jsi ze mě udělal dezertéra!“_
 
-Automaticky jsem napřáhl k bráchovi dlaň, a on s povzdechem vyklepl z paklíku cigaretu. Než jsem ji dostal ven, ohnula se, ale kupodivu se rozhořela. Brácha se vysoukal na nohy. Udělal jsem něco, co jsem do té doby nikdy nezkusil: natáhl jsem ruku a uhodil ho do ramene.
+_Automaticky jsem napřáhl k bráchovi dlaň, a on s povzdechem vyklepl z paklíku cigaretu. Než jsem ji dostal ven, ohnula se, ale kupodivu se rozhořela. Brácha se vysoukal na nohy. Udělal jsem něco, co jsem do té doby nikdy nezkusil: natáhl jsem ruku a uhodil ho do ramene._
 
-„Tak se tím dezertérem asi musíš fakt stát, no.“
+_„Tak se tím dezertérem asi musíš fakt stát, no.“_
 
-„Když si představím, co by řekli kluci z pluku… – Co teď?“
+_„Když si představím, co by řekli kluci z pluku… – Co teď?“_
 
-Chvíli mi trvalo, než mi došlo, že se mě Michal opravdu ptá.
+_Chvíli mi trvalo, než mi došlo, že se mě Michal opravdu ptá._
 
-„No coby. Nejdřív se budeš muset zbavit tohohle, ne?“
+_„No coby. Nejdřív se budeš muset zbavit tohohle, ne?“_
 
-Brácha se podíval na svou uniformu. „Hm. No tak jo.“
+_Brácha se podíval na svou uniformu. „Hm. No tak jo.“_
 
-Zašklebil se a najednou z něj byl zase suverén s patkou. Teatrálně odhodil štít do ulice, až třískl do zaparkované škodovky. Strhl si přilbu a chystal se s ní udělat totéž. Varoval jsem ho, že bychom se měli chovat opatrněji. Hodil přilbu do popelnice, obušek natlačil do druhé. Měli jsme docela problém zavřít víko – struna v obušku kladla nečekaný odpor. Společně jsme to zvládli. Brácha si pak stáhl kabátek s mazácky zvednutým límcem a poslal ho za přilbou. Otřásl se zimou v saku od uniformy: „Tak co?“
+_Zašklebil se a najednou z něj byl zase suverén s patkou. Teatrálně odhodil štít do ulice, až třískl do zaparkované škodovky. Strhl si přilbu a chystal se s ní udělat totéž. Varoval jsem ho, že bychom se měli chovat opatrněji. Hodil přilbu do popelnice, obušek natlačil do druhé. Měli jsme docela problém zavřít víko – struna v obušku kladla nečekaný odpor. Společně jsme to zvládli. Brácha si pak stáhl kabátek s mazácky zvednutým límcem a poslal ho za přilbou. Otřásl se zimou v saku od uniformy: „Tak co?“_
 
-„Pořád vypadáš jako policajt.“ Natáhl jsem si svou ošoupanou vojenskou bundu z výprodeje západoněmecké armády, která se záhadně dostala do českého obchodu pro myslivce. Omotal jsem si šálu ještě jednou kolem krku. Měl jsem na sobě huňatý svetr a pod ním další. Vlajku jsem strčil mezi ně. Brácha zaváhal, pak si bundu rychle navlíkl: „Vypadám dobře?“
+_„Pořád vypadáš jako policajt.“ Natáhl jsem si svou ošoupanou vojenskou bundu z výprodeje západoněmecké armády, která se záhadně dostala do českého obchodu pro myslivce. Omotal jsem si šálu ještě jednou kolem krku. Měl jsem na sobě huňatý svetr a pod ním další. Vlajku jsem strčil mezi ně. Brácha zaváhal, pak si bundu rychle navlíkl: „Vypadám dobře?“_
 
-„Jako debil. Sundej si aspoň tu hipísáckou placku, ať moc neprovokuješ.“
+_„Jako debil. Sundej si aspoň tu hipísáckou placku, ať moc neprovokuješ.“_
 
-„Tuhle muří nohu?“ zeptal se. Odepnul jsem mu ten kousek plechu, který jsem si přivezl z Budapešti, a hodil ho do kanálu.
+_„Tuhle muří nohu?“ zeptal se. Odepnul jsem mu ten kousek plechu, který jsem si přivezl z Budapešti, a hodil ho do kanálu._
 
-Zahnuli jsme do pootevřených vrat. Uvnitř jsem uviděl otřískané poštovní schránky, některé bez dvířek, jiné očouzené. U stropu visela žárovka, uprostřed průjezdu se leskla louže krve.
+_Zahnuli jsme do pootevřených vrat. Uvnitř jsem uviděl otřískané poštovní schránky, některé bez dvířek, jiné očouzené. U stropu visela žárovka, uprostřed průjezdu se leskla louže krve._
 
-V prvním patře jsem zazvonil na zvonek, brácha to zopakoval na druhé straně chodby. Za dveřmi byli určitě lidé, cítil jsem, že tam jsou. Nikdo neotevřel.
+_V prvním patře jsem zazvonil na zvonek, brácha to zopakoval na druhé straně chodby. Za dveřmi byli určitě lidé, cítil jsem, že tam jsou. Nikdo neotevřel._
 
-Uslyšel jsem, jak do průjezdu někdo vběhl. Po špičkách jsme vyskákali do dalšího patra. Opatrně jsem stiskl zvonek. Nic. Rozběhli jsme se o patro výš. Na schodišti se rozezněl dupot nohou v těžkých botách. Další sada schodů byla natřená šedou barvou, vedly k plechovým vrátkům na půdu. Vrátil jsem se k posledním dveřím a zvonil jsem tak dlouho, až se vedle jmenovky odloupla mosazná slza kukátka. Uvnitř se objevilo oko, které si mě bez pohybu prohlíželo.
+_Uslyšel jsem, jak do průjezdu někdo vběhl. Po špičkách jsme vyskákali do dalšího patra. Opatrně jsem stiskl zvonek. Nic. Rozběhli jsme se o patro výš. Na schodišti se rozezněl dupot nohou v těžkých botách. Další sada schodů byla natřená šedou barvou, vedly k plechovým vrátkům na půdu. Vrátil jsem se k posledním dveřím a zvonil jsem tak dlouho, až se vedle jmenovky odloupla mosazná slza kukátka. Uvnitř se objevilo oko, které si mě bez pohybu prohlíželo._
 
-Zíral jsem do něj. Chtěl jsem ho nějak zaujmout, obměkčit, uprosit. Vylovil jsem vlajku, kterou jsem měl pod svetrem, a roztáhl ji před sebou. Zdola se blížil řev „Otevřete! Jménem zákona!“ Teď už kanady zaduněly na schodech pode mnou.
+_Zíral jsem do něj. Chtěl jsem ho nějak zaujmout, obměkčit, uprosit. Vylovil jsem vlajku, kterou jsem měl pod svetrem, a roztáhl ji před sebou. Zdola se blížil řev „Otevřete! Jménem zákona!“ Teď už kanady zaduněly na schodech pode mnou._
 
-Dveře povolily, objevila se vrásčitá vousatá tvář s mohutnými brýlemi a s ustaraným výrazem. „Pojďte dál,“ řekl ten chlapík, který vypadal, jako by ho ani největší nebezpečí nedokázalo přimět, aby trochu přidal. Skoro v tu samou chvíli, kdy za námi zavřel, dopadl na dveře obušek.
+_Dveře povolily, objevila se vrásčitá vousatá tvář s mohutnými brýlemi a s ustaraným výrazem. „Pojďte dál,“ řekl ten chlapík, který vypadal, jako by ho ani největší nebezpečí nedokázalo přimět, aby trochu přidal. Skoro v tu samou chvíli, kdy za námi zavřel, dopadl na dveře obušek._
 
-Svaly v nohou se mi napínají, mám v sobě jeden hubený joint a jedno plnoštíhlé pivo, svou zdravotní dávku – a tohle všechno se nikdy nestalo.
+_Svaly v nohou se mi napínají, mám v sobě jeden hubený joint a jedno plnoštíhlé pivo, svou zdravotní dávku – a tohle všechno se nikdy nestalo._
 
 ## Rivers of Babylon
-
-  
 
 Nohy mi už několikrát ztěžkly, ale vždycky jsem se z únavy vytancoval. Kdy jsem nechal náš stánek Petrovi, před čtyřmi hodinami? Zdá se to být chvilka. Čas se zamotal do sebe a stopnul. Vznáším se nad zdupanou trávou. Mám v sobě jeden hubený joint a jedno plnoštíhlé pivo, svou zdravotní dávku. Někdo mě vzal za vlasy vzadu na hlavě, táhne mě nahoru, a já ho ochotně následuju.
 
