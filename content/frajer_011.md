@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 >   
 
 >   
@@ -50,6 +52,10 @@ Olda vzal po Michalově smrti ten kus papíru, pokrytý jeho rukopisem, a zase 
 Dojde mi, odkud znám kloboučky, co je má naražené kapela. Přesně takové nosíval Olda. Vždycky mi přišlo, že vypadají moc slušňácky – úřednicky a páprdovsky. Najednou vidím, jakou mají šťávu.
 
 _Ahoj_, _babylónský řeky_, zní mi v hlavě a vrací se mi, jak to všechno bylo.
+
+</section>
+
+<section>
 
 Ten den ráno jsem v umyvadle našel zbytky Michalových vousů. Pokaždé, když u nás přespal, ho po sobě neumyl, a máma se naštvala. Tak jednou týdně se stavoval, i když už konečně dostal byt. Měl tam jen základní nábytek a věci, které mu dali naši. Všechno nechal lze, včetně Izabelky.
 
@@ -160,6 +166,10 @@ Vyšel jsem z místnosti, ale neměl jsem kam jít. Opřel jsem se zády o dve
 Sevřelo se mi srdce, když mi došla přitroublá alegoričnost obrazu nad nimi. Košaté stromy na břehu, obsypané listím a objímající se, stály vždycky ve dvojici. Jenom jediný strom neměl ani list. Naprázdno lomil křečovitými, stařeckými větvemi. No a samozřejmě, tenhle strom byl sám. Máma s Oldou mlčeli jako na předním sedadle auta.
 
 Doma jsem si šel umýt ruce. Těšil jsem se na proud teplé vody, který si pustím na zápěstí. V umyvadle byly pořád ještě zbytky Michalových vousů. Olda si stoupnul vedle mě. Roztočil kohoutek, pustil jenom teplou. Začal umyvadlo pečlivě mýt. Teď už musela téct vařící.
+
+</section>
+
+<section>
 
 Chlapík z krematoria pro nás přišel do předsálí a zpomaleně nás zavedl dovnitř. Obřadně ustoupil stranou. Zůstali jsme stát vedle sebe.
 
@@ -479,6 +489,10 @@ Při další zastávce vytáhnu anglickou knížku od Tibora Fischera _The Colle
 
 Já nezávodím. Když na dálnici přece jenom někoho předjíždím, kouknu se napravo, abych se bezpečně dostal před něj. Silueta řidiče mi občas připomene Michala anebo Oldu. Lehce uberu plyn, představuju si, že jsou to opravdu oni, a pár okamžiků se vznášíme vedle sebe.
 
+</section>
+
+<section>
+
 Konečně zaberu. Probudí mě šustění tropika a rozepínání stanového zipu. Uslyším se, jak ochraptělým hlasem, placatým jako plech, říkám: „Ale copak, copak?“ Někdo mi odpoví podivně střízlivě: „Spletl jsem si stan.“
 
 Chňapnu ho za zápěstí. Snaží se mi vytrhnout, až mě napůl vyvleče ven. Vymotám se ze spacáku, vyskočím na nohy a praštím ho do ramene, až se svalí do trávy.
@@ -622,6 +636,10 @@ Ani jeden z nás nevěřil, že Olda zemře, dokud se to nestalo. O Michalově
 „Třeba lepší, co já vím?“ Slyším v jejím hlase, že si tím není vůbec jistá.
 
 Když se vezu naším firemním autem, hledám u silnice cedule, kolem kterých jsme kdysi dávno projeli. Nedávno jsem uviděl zrezlou reklamu na _navíjení motorů_ a vzpomněl jsem si, jak se máma tehdy divila, co je to za pitomost, a jak jí Olda vysvětloval ten termín s trošku komickou vážností technika. Nejradši bych ceduli ukradl. Nakonec ji tam nechám, ať si nad ní může lámat hlavu někdo jiný.
+
+</section>
+
+<section>
 
 Dojdu na kraj lesa, svezu se na zem, která už stačila proschnout, a natáhnu se. Konečně jsem se dostal tak daleko, abych přestal slyšet basy ze stagí. Lituju, že jsem si nevzal jeden z těch kloboučků, co ležely na poličce v Oldově skříni. Když mi je máma nabídla, nevěděl jsem, co s nimi. Nakonec si rozprostřu přes obličej šátek.
 
@@ -892,3 +910,5 @@ Utancované nohy se rozbolí. Zachytím tě někde na okraji toho, kam ještě v
 _Pěkně s náma zametli, my jim za to vyrvem značky_, zpívám si mlčky.
 
 A ty se dáš pomalu do pohybu. Nejdřív se nezávazně vlníš jako na diskotéce. Pak přidáš na tempu, a za chvíli jsi k nerozeznání od ostatních tanečníků. Nakonec z tebe vidím jen poskakující pramen vlasů, a pak už ani to ne. Snáší se tma, ve které se rozsvítily reflektory.
+
+</section>
