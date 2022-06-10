@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 >   
 
 >   
@@ -659,6 +661,10 @@ _Seběhl jsem v ponožkách pár schodů, když se prudce otevřely. Plešatý 
 
 _Opatrně jsem vyklouzl z vrat. Sundal jsem si hipísáckou placku, ten kousek plechu, co jsem si přivezl z Budapešti, protože v Praze se koupit nedal, a hodil ho do kanálu._
 
+</section>
+
+<section>
+
 Redaktorka s ostře nalíčenými rty se mě nejspíš zeptá, jak tohle souvisí se 17. listopadem a já jí budu muset vysvětlit, že hodně volně, ale že bez podobných pitomostí si nedokážu vzpomenout vůbec na nic. Koho dnes zajímá nějaká placka? vypálí na mě, možná. Umějí si ten symbol čtenáři vůbec představit? A jestli jo, neznají ho leda jako ornament na batikovaných hadrech? Ve skutečnosti nezajímá ani mě, jenže jak provádím svůj archeologický výzkum minulosti, na světlo jdou všechny ty věci, jaké se v sondách obvykle nacházejí, střepy, kosti, odpadky, a mezi nimi i kulatý kousek tenkého plechu s trojklanným znakem ze dna kanálu, o kterém už nikdo netuší, k čemu vlastně byl.
 
 ## Grilované kuře
@@ -844,6 +850,10 @@ _„Hm. Jasná zpráva. Jenže kam, viď. Vlastně… něco bychom mohli zkusit.
 _„Vy se s nima znáte?“ prohodil jsem, abych něco řekl._
 
 _„Ne. Nabídli mi svůj kvartýr, kdybych se sám potřeboval zdejchnout.“_
+
+</section>
+
+<section>
 
 Redaktorka s tvrdým pohledem nejspíš řekne, že je v tom moc dialogů. Jestli rovnou nepoužije slovo _kecy_. A bude mít pravdu, jenomže já vím, že všechno se odehrávalo právě takhle, ve větách, co se řekly, nebo ani neřekly. Nemám jinou možnost než pokusit se popsat ty řeči, anebo možná kecy.
 
@@ -1075,6 +1085,10 @@ Chodil tam taky, aby _zapracoval na dalším kousku_. Garáž měl vybavenou pon
 
 Ulevilo se mi, když jsem uslyšel psací stroj.
 
+</section>
+
+<section>
+
 Někdy v té době se Michal začal zmiňovat o Budišovi, se kterým se poznal u esenbáků. Jednou se u nás zastavili, čekal jsem policajta jak z detektivky, a byl jsem docela zklamaný. Měl nicneříkající výraz, těkající oči a všední kudrnaté vlasy. Vypadal jako někdo, vedle koho stojíte půl hodiny v autobuse a stejně nemáte šanci si ho zapamatovat. Na druhou stranu byl pěkně ukecaný, a když jsem poslouchal ten proud vtípků, sebevědomých prohlášení a přehánění, někoho mi připomněl.
 
 Pak se u nás objevil Budiš bez Michala.
@@ -1277,6 +1291,10 @@ _Spali jsme ve spacácích na parketách posluchárny. Probíral jsem se jejími
 
 _Nemohl jsem usnout. Snažil jsem se rozeznat její dech mezi oddechováním ostatních. Nakonec jsem ho bezpečně uslyšel, nebo mi to aspoň tak připadalo._
 
+</section>
+
+<section>
+
 Redaktorka bude muset vydržet, že příběh 17. listopadu se stává příběhem Aleny, tak jako se předtím stal příběhem Michala. Davové scény nemůžu nabídnout. Historie se pro mě odehrávala vždycky ve dvou, maximálně ve čtyřech lidech.
 
 ## 21\. 11. 1989, Mělník, 18:07
@@ -1431,6 +1449,10 @@ _Holka se podívala na nás: „Vy jste studenti? Jak to, že nemáte trikolóry
 
 _„Teď jsme přijeli ze severních Čech, kde nás málem zašili. Takže si dej pohov,“ odpověděla Alena s přehledem. Ušklíbla se na mě a zamířila ke schodům._
 
+</section>
+
+<section>
+
 Až na mě bude redaktorka tlačit, abych si vzpomněl na jména těch lidí a údaje, kde jsme to vlastně byli, nedokážu jí vyhovět. Pamatuju si pocit zimy, bledě růžové odstíny oblohy, která v listopadu takhle vypadá brzy ráno a v podvečer, pokašlávání startujících aut se slabou baterkou, studené sklo, na které se špatně lepí plakáty, chuť izolepy, kterou jsme trhali v zubech. A pak ten stoleček, co se najednou objevil ve vchodu do fakulty. Zohýbanou občanku. Karmínovou gumičku, omotanou několikrát kolem ní.
 
 ## 24\. 11. 1989, náměstí Krasnoarmějců v Praze, 17:27
@@ -1446,3 +1468,5 @@ _Ucítil jsem jemné poklepání na rameno. Jeden z novinářů, v tmavé vět
 _Připadal jsem si jako u německé ambasády, kam mě poslali z fakulty, abych poprosil o namnožení letáků. Bavil jsem se s dokonale oholeným a upraveným mužem, který mě zkoumavě pozoroval z pootevřených vrat barokního paláce. Nevěděl jsem, jak mám říct, že jsem jeden ze studentů – _v revoluci_? Nebyl jsem si jistý, jestli jím doopravdy jsem, a jestli to můžu takhle formulovat. Člověk ve škvíře s nesnesitelnou vlídností čekal, až vykoktám, co chci._
 
 _Teď to bylo stejné. Z novinářova přátelského výrazu mě akorát zaplavovalo horko a zapomínal jsem i slova, která jsem bezpečně uměl. Usměvavě mě přesvědčoval, abych si kazetu vzal – magneťák budu jednou určitě mít. Usmíval se tak široce, až jsem se za něj trochu styděl. Připadal jsem si daleko starší než on. Vzal jsem si ji s pocitem, že je to dárek pro někoho jiného._
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 >   
 
 >   
@@ -377,6 +379,10 @@ Cestou zpátky se máma rozpovídala. Už dávno si všimla, že Michal začín�
 
 Pak nám máma vysvětlila, jaké můžou být další příčiny záchvatu. Epilepsie se začala jevit jako celkem přijatelná varianta.
 
+</section>
+
+<section>
+
 Při návštěvách jsem pozoroval ostatní pacienty. Na pokoji ležel chlap kolem třicítky, měl výrazné oči, vysoké tváře, plné rty. Jeho obličeji odpovídalo atletické tělo, ze kterého jsem viděl široká ramena, svalnatá předloktí. Přestávaly mu fungovat nervy a postupně se propadal do nehybnosti. Z postele už nedokázal sám vstát, i tak si to v noci dělal v jednom kuse, jak mi Michal pošeptal. Kdo ví, jak dlouho ještě bude moct, dýchnul mi horce do ucha a mně přišlo, že se konečně probírá.
 
 Vedle atleta byl čtyřicátník, kterého na motorce porazilo auto. Vyjížděl právě z parkoviště, takže všechno se odehrálo v minimální rychlosti, ale svalil se a noha mu zůstala vespod. Kromě rozdrcených kostí mu jeho harley přerušil nervy. Tenhle chlap s obtloustlým, neurvalým ksichtem měl velkou, pohyblivou hubu, v jednom kuse v pohybu. Mluvil o motorce. O své noze. Bráchovi už všechno řekl, tak to teď hustil do mě. A pěkně spěchal, aby ze sebe stihl dostat co nejvíc, dokud tam jsem. Jeho oblíbeným tématem byly aktivity Státní bezpečnosti během revoluce.
@@ -460,6 +466,10 @@ Olda se na mě zvláštně podíval: „No, jenom v Tuzexu. Když jsi měl bony
 „Protože mi to bylo, no, vlastně trapné. Že si tady ani nemůžu koupit pořádné auto.“
 
 „A ta felicie, co jsi v ní jezdil s Michalem do Jugoslávie, to nebyl bourák?“ snažil jsem se zachránit situaci. Olda zaváhal, pak zavrtěl hlavou.
+
+</section>
+
+<section>
 
 Jestli bude chtít redaktorka tohle vynechat, klidně může. Samozřejmě vím, že se sedmnáctým listopadem souvisejí mé rodinné historky hodně volně. Nemůžu jenom zapomenout na auto koupené za cizí peníze a na plán založit si praxi v prádelně, na ty dva pokusy vést normální život. Cortinu jsem od té doby párkrát na ulici zahlédl a vždycky mě překvapilo, jak je ve skutečnosti malá. Vypadá mezi současnými vozy tak trochu jako model, který si někdo slepil ze stavebnice. Nechápu, jak se dovnitř mohli vejít čtyři lidi.
 
@@ -1494,3 +1504,5 @@ Poblíž se strhl povyk. Postava napůl na ježka, co jí z druhé půlky hlavy
 Zvedl se řev a pískot, protože proti davu se rozjelo policejní auto. Podle toho, jak řidič dupl na brzdu, mi bylo jasné, že si nejspíš spletl směr. Nesmělými odskoky se pokusil vycouvat. Kolem mě se najednou udělalo volno, protože všichni se rozběhli.
 
 Jakmile se kluk s palestinou dostal vedle auta, vyskočil tak, že by to musel ocenit i Michal, a kopl. Z bočního okénka vyrazil gejzír roztříštěného skla. Někdo zařval raz dva, dopravní značka se rozhoupala a začala bušit do kapoty. Za předním sklem jsem zahlédl obličej zbledlý hrůzou.
+
+</section>
